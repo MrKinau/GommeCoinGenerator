@@ -11,7 +11,7 @@ import systems.kinau.gommecoingenerator.network.protocol.ProtocolConstants;
 public class SettingsConfig implements Config {
 
     @Property(key = "auto-reconnect") private boolean autoReconnect = false;
-    @Property(key = "auto-reconnect-at") private int autoReconnectTime = 5;
+    @Property(key = "auto-reconnect-time") private int autoReconnectTime = 5;
 
     @Property(key = "account-username") private String userName = "GommeCoinGenerator";
     @Property(key = "account-password") private String password = "CHANGEME";
@@ -19,7 +19,7 @@ public class SettingsConfig implements Config {
     @Property(key = "log-count") private int logCount = 15;
     @Property(key = "proxy-chat") private boolean proxyChat = false;
 
-    @Property(key = "default-protocol") private String defaultProtocol = ProtocolConstants.getVersionString(ProtocolConstants.MINECRAFT_1_8);
+    @Property(key = "default-protocol") private String defaultProtocol = ProtocolConstants.getVersionString(ProtocolConstants.MINECRAFT_1_12_2);
 
     @Property(key = "discord-webHook") private String webHook = "false";
 
