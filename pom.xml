@@ -10,13 +10,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>systems.kinau</groupId>
-    <artifactId>FishingBot</artifactId>
+    <artifactId>GommeCoinGenerator</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>FishingBot</name>
-    <description>An AFK fishing bot for minecraft</description>
+    <name>GommeCoinGenerator</name>
 
     <properties>
-        <jar.finalName>Fishingbot</jar.finalName>
+        <jar.finalName>GommeCoinGenerator</jar.finalName>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
@@ -102,7 +101,7 @@
                             <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
                         </manifest>
                         <manifestEntries>
-                            <Main-Class>systems.kinau.fishingbot.Main</Main-Class>
+                            <Main-Class>systems.kinau.gommecoingenerator.Main</Main-Class>
                         </manifestEntries>
                     </archive>
                 </configuration>

@@ -1,16 +1,12 @@
-Minecraft 1.8 - 1.14.4 AFK Fishing bot
+Gomme Coin Generator - Auto-Claim daily rewards
 =============
-![Codacy grade](https://img.shields.io/codacy/grade/05f0f6a5d76444a1b710f911b661bf1d)
-[![GitHub issues](https://img.shields.io/github/issues/MrKinau/FishingBot)](https://github.com/MrKinau/FishingBot/issues)
-[![GitHub](https://img.shields.io/github/license/MrKinau/FishingBot)](https://github.com/MrKinau/FishingBot/blob/master/LICENSE)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/MrKinau/FishingBot)](https://github.com/MrKinau/FishingBot/releases/latest)
 
 ## Download
--  a list with all releases can be found [here](https://github.com/MrKinau/FishingBot/releases)
--  The latest release can be downloaded [here](https://github.com/MrKinau/FishingBot/releases/latest)
+-  a list with all releases can be found [here](https://github.com/MrKinau/GommeCoinGenerator/releases)
+-  The latest release can be downloaded [here](https://github.com/MrKinau/GommeCoinGenerator/releases/latest)
 
 ## How to use
-1. Download a [release](https://github.com/MrKinau/FishingBot/releases) (or build it at you own)
+1. Download a [release](https://github.com/MrKinau/GommeCoinGenerator/releases) (or build it at you own)
 2. Start the Client (java -jar Fishingbot.jar)
 3. Fill in the config.properties, which generated on the first start
 4. Give a fishing rod to the account you used and place him in front of water
